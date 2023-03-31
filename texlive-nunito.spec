@@ -1,6 +1,6 @@
 Name:		texlive-nunito
 Version:	57429
-Release:	1
+Release:	2
 Summary:	The Nunito font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nunito
