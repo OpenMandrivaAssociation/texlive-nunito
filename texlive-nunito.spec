@@ -3,7 +3,7 @@ Version:	57429
 Release:	2
 Summary:	The Nunito font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nunito
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nunito
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nunito.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nunito.doc.r%{version}.tar.xz
